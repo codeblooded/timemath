@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>D274063A-123F-49A5-ABAD-D58E9A9BF210</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>95438028B10BBB846574013D29F154A00556A9D1</key>
+		<string>github.com:Quick/Nimble.git</string>
+		<key>D0725CAC6FF2D66F2C83C2C48DC12106D42DAA64</key>
+		<string>github.com:Quick/Quick.git</string>
+	</dict>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>95438028B10BBB846574013D29F154A00556A9D1</key>
+		<string>Nimble/</string>
+		<key>D0725CAC6FF2D66F2C83C2C48DC12106D42DAA64</key>
+		<string>Quick/</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>github.com:Quick/Nimble.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>95438028B10BBB846574013D29F154A00556A9D1</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>95438028B10BBB846574013D29F154A00556A9D1</string>
+			<key>IDESourceControlWCCName</key>
+			<string>Nimble</string>
+		</dict>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>D0725CAC6FF2D66F2C83C2C48DC12106D42DAA64</string>
+			<key>IDESourceControlWCCName</key>
+			<string>Quick</string>
+		</dict>
+	</array>
+</dict>
+</plist>
